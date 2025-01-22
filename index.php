@@ -17,13 +17,19 @@
     <div class="col-6 m-auto">
     <div class="card">
   <div class="card-header">
-    <h3>Sistem Informasi Mahasiswa</h3>
+    <h3>HOTEL RAJAWALI</h3>
   </div>
 
   <div class="card-body">
   
    <h4>Selamat datang!</h4>
-   <p>Tuliskan kata-kata hari ini</p>
+   <p>
+Selamat pagi/siang/sore Bapak/Ibu, kami sangat senang menyambut kehadiran Anda di HOTEL RAJAWALI.
+
+Kami berharap perjalanan Anda menuju ke sini berjalan lancar. Jika ada yang dapat kami bantu untuk membuat pengalaman menginap Anda lebih nyaman, jangan ragu untuk memberi tahu kami.
+Check-in Bapak/Ibu akan segera kami proses. Mohon izin untuk meminta identitas Anda untuk keperluan registrasi.
+Sekali lagi, terima kasih telah memilih HOTEL RAJWALI sebagai tempat menginap Anda. Kami berharap Anda menikmati pengalaman yang menyenangkan bersama kami.
+</p>
 
   </div>
 
